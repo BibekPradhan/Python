@@ -1,1 +1,4 @@
-CircularDependencyB 
+CircularDependencyB==0.0.0.0
+CircularDependencyA==0.0.0.0
+polars==0.19.11
+
